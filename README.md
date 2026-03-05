@@ -1,3 +1,0 @@
-# mathematics
-Métodos matemáticos 
-a
